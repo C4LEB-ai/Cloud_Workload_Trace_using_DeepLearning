@@ -1,4 +1,4 @@
-# HealthCare_Network_Intrusion_Preveention
+# Comprehensive Analysis and Modeling of Cloud Workload Traces(Google & Alibaba) Using Deep Learning Techniques
 **Dataset Preparation**: Conduct a thorough exploration and analysis of the dataset to gain insights into its structure, content, and overall quality. This step involves scrutinizing the features, detecting missing values, and removing attributes with substantial gaps in data. Ensure the dataset is well-structured and adequately reflects the diverse aspects of Cloud Workload Traces (Google and Alibaba).
 
 **Data Preprocessing**: Perform data cleaning and preprocessing to ready the dataset for model development. This includes correcting inconsistencies in the data, using SMOTE to balance the target variable, and applying MinMaxScaler to normalize features, thereby ensuring consistency and enhancing model performance.
